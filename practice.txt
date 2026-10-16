@@ -1,0 +1,4 @@
+Lab 7 Practice
+
+Goal: Create a GitHub repository named git-practice.
+Requirement: At least 5 files and 5 commits.
