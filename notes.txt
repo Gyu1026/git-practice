@@ -1,0 +1,6 @@
+Git Practice Notes
+
+1. Git tracks changes in files.
+2. git add stages changes.
+3. git commit saves a snapshot.
+4. git push uploads commits to GitHub.
